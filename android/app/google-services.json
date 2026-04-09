@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344596498444",
+    "project_id": "tripsnap-7b236",
+    "storage_bucket": "tripsnap-7b236.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344596498444:android:9d1c9548093124bf59c629",
+        "android_client_info": {
+          "package_name": "com.example.tripsnap_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqcIIe-t0iafTiyoKI3VCBwZQxeR9lqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
